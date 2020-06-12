@@ -14,3 +14,4 @@
     Second, Run this classify.py to see the output
     
 You should put hand appropriately to see Output of Gesture. You can find amer_sign3.png. 
+

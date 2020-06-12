@@ -1,4 +1,4 @@
-# SignLanguageDetection using CNN and OpenCV
+# Machine Learning Based Detection Of ASL(American Sign Language) Gestures
 
 # ONLY 3 THINGS YOU NEED
 

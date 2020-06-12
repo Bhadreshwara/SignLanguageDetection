@@ -7,6 +7,7 @@
     3. Platform (OpenCV)
     
 # Run this file
+    Before run this file, you need to download Dataset from kaggle.
     
     First, Train the model cnn.py file
     

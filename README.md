@@ -6,6 +6,10 @@
     2. Model (We are using Convolution Neural Network(CNN))
     3. Platform (OpenCV)
     
+# Working Of CNN
+
+![Screenshot](WorkingCNN.png)
+
 # Run This File
     Before run this file, you need to download Dataset from kaggle.
     

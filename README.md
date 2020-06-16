@@ -23,3 +23,9 @@ You should put hand appropriately to see Output of Gesture. You can find amer_si
 
 ![Screenshot](Picture1.png)
 
+
+# Output Using Flask
+
+![Screenshot](output.png)
+
+
